@@ -1,0 +1,604 @@
+Organisation,Description,Category,Tech Stack,Tags,Idea List,IRC Channel,Org Page
+52°North Initiative for Geospatial Open Source Software GmbH,52°North works on innovative ideas and technologies in geoinformatics.,"
+Other
+","['web services', 'ogc standards', 'java', 'javascript', 'web']","['geoinformatics', 'sensor web', 'web-based geoprocessing', 'spatial data infrastructures', 'spatial information']",https://wiki.52north.org/Projects/GSoC2017ProjectIdeas,http://list.52north.org/mailman/listinfo/gsoc,https://summerofcode.withgoogle.com/archive/2017/organizations/4959751460880384/
+AboutCode,"Open Source for Open Source: software license, origin and packages discovery","
+Programming Languages and Development Tools
+","['python', 'c/c++', 'javascript', ' shell script', 'static analysis']","['free and open source software  license and origin', 'package and dependencies licensing and origin', 'package vulnerabilities and security', 'code scan and matching', 'code analysis and spdx']",https://github.com/nexB/aboutcode/wiki/GSOC-2017,https://webchat.freenode.net/?channels=#aboutcode,https://summerofcode.withgoogle.com/archive/2017/organizations/6448304984424448/
+AerospaceResearch.net,Making Space Together,"
+Science and Medicine
+","['python', 'c/c++', 'vhdl', 'boinc']","['cubesats', 'space applications', 'software defined radio', 'distributed computing', 'simulations']",http://aerospaceresearch.net/?page_id=202,https://lists.shackspace.de/mailman/listinfo/constellation,https://summerofcode.withgoogle.com/archive/2017/organizations/6713622831038464/
+aimacode,"Code for the book ""Artificial Intelligence: A Modern Approach""","
+Programming Languages and Development Tools
+","['python', ' javascript', 'machine learning', 'artificial intelligence', 'java']","['artificial intelligence', 'machine learning', 'education']",http://aima.cs.berkeley.edu/gsoc-ideas.html,https://gitter.im/aimacode/,https://summerofcode.withgoogle.com/archive/2017/organizations/6119722806411264/
+Amahi,Making Home Networking and Storage Simple,"
+Operating Systems
+","[' android', 'golang', 'restful api', 'streaming', 'ruby on rails']","['home servers', 'networking', 'storage', 'webapps', 'mobile streaming']",https://wiki.amahi.org/index.php/Google_Summer_of_Code_Ideas,http://talk.amahi.org,https://summerofcode.withgoogle.com/archive/2017/organizations/6673844588773376/
+AOSSIE - Australian Open Source Software Innovation and Education,Umbrella Org for Open-Source Projects in Australia,"
+Science and Medicine
+","['scala', 'javascript/html/css', 'automated reasoning', 'android/ios', 'xcode']","['logic', 'electronic voting', 'natural language processing', 'philosophy', 'environment']",https://aossie.gitlab.io/#ideas,https://groups.google.com/forum/#!forum/aossie-gsoc-2017,https://summerofcode.withgoogle.com/archive/2017/organizations/4780102642565120/
+Apache Software Foundation,Providing open source software to the public free of charge,"
+Other
+","['java', 'c', 'erlang']","['cloud', 'libraries', 'big data']",http://s.apache.org/gsoc2017ideas,https://wiki.apache.org/general/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/4633151007621120/
+Apertium,Free/open-source rule-based machine translation,"
+Other
+","['c++', 'xml', 'python', 'nlp']","['natural language processing', 'machine translation', 'lesser-resourced languages']",http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code,http://wiki.apertium.org/wiki/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/6618812501721088/
+Apertus Association,Open Technology for Professional Film Production,"
+Graphics / Video / Audio / Virtual Reality
+","['fpga', 'vhdl', 'c', 'linux', 'c++']","['video', 'camera', 'vision', 'real time', 'photography']",https://lab.apertus.org/project/view/20/,https://www.apertus.org/irc-chat,https://summerofcode.withgoogle.com/archive/2017/organizations/6354847569805312/
+appleseedhq,A modern open source rendering engine for animation and visual effects,"
+Graphics / Video / Audio / Virtual Reality
+","['c++', 'python', 'qt']","[' computer graphics', '3d', 'rendering', 'animation', 'vfx']",https://github.com/appleseedhq/appleseed/wiki/List-of-Project-ideas-for-GSoC-2017,https://groups.google.com/forum/#!forum/appleseed-dev,https://summerofcode.withgoogle.com/archive/2017/organizations/6110372931043328/
+ArduPilot,The worlds most advanced open source autopilot,"
+Other
+","['c++', 'python', 'embedded', 'rtos', 'ros']","['autopilot', 'robotics', 'uav', 'drones', 'rovers']",http://ardupilot.org/dev/docs/gsoc-ideas-list.html,https://gitter.im/ArduPilot/GSoC,https://summerofcode.withgoogle.com/archive/2017/organizations/5801067908431872/
+Babel,"Babel, the community driven compiler for writing next generation JavaScript","
+Programming Languages and Development Tools
+","['javascript', 'babel', 'nodejs']","['compilers', 'ast', 'minifier', 'tc39']",https://github.com/babel/babel/wiki/Google-Summer-of-Code-Proposals,https://slack.babeljs.io,https://summerofcode.withgoogle.com/archive/2017/organizations/5933754749026304/
+Bazel,Fast and correct build system for Google scale,"
+Programming Languages and Development Tools
+","['java', 'linux', 'go']","['development tools', 'build systems']",https://github.com/bazelbuild/bazel/wiki/Project-Ideas,mailto:bazel-core@googlegroups.com,https://summerofcode.withgoogle.com/archive/2017/organizations/5765787168014336/
+BeagleBoard.org Foundation,"open hardware physical computing for makers, educators and professionals","
+Programming Languages and Development Tools
+","['javascript', 'linux', 'beaglebone', 'python', 'c']","['real time', 'robotics', 'iot', 'physical computing', 'coprocessing']",http://bbb.io/gsocideas,http://bbb.io/gsocchat,https://summerofcode.withgoogle.com/archive/2017/organizations/5370804795604992/
+Beam Community,"From distributed systems, to robust servers and language design on the Erlang VM","
+Programming Languages and Development Tools
+","['erlang', 'elixir', 'lisp', 'xmpp']","['realtime', 'communication system', 'database', 'clustering']",https://github.com/beamcommunity/beamcommunity.github.com/wiki,https://beamcommunity.github.io/,https://summerofcode.withgoogle.com/archive/2017/organizations/5344914732744704/
+BeeWare Project,The IDEs of Python. Tools for cross-platform Python application development.,"
+Programming Languages and Development Tools
+","['python', 'mobile', 'ios', 'android']","['ui', 'ide', 'cross-platform']",https://github.com/pybee/pybee.github.io/wiki/GSoC-Project-Ideas,https://gitter.im/pybee,https://summerofcode.withgoogle.com/archive/2017/organizations/5213454373748736/
+Berkman Klein Center for Internet and Society at Harvard University,"exploring cyberspace, sharing in its study & pioneering its development","
+Web
+","['ruby on rails', 'meteor.js', 'd3', 'elasticsearch', 'javascript ']","['digital rights', 'internet access', 'security and privacy', 'law', ' web']",https://cyber.harvard.edu/gsoc,https://cyber.harvard.edu/gsoc/Main_Page#Contact_Us,https://summerofcode.withgoogle.com/archive/2017/organizations/5825274612547584/
+Blender Foundation,Free and open source 3D creation for artists and teams,"
+Graphics / Video / Audio / Virtual Reality
+","['opengl', 'opencl', 'python', 'c', 'c++']","['3d', 'animation', 'graphics', 'modeling', 'vfx']",https://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2017/Ideas,http://wiki.blender.org/index.php/Community:Chat,https://summerofcode.withgoogle.com/archive/2017/organizations/6461479528169472/
+Boost C++ Libraries,Boost provides free peer-reviewed portable C++ source libraries.,"
+Programming Languages and Development Tools
+","['c++', 'c++11', 'c++14', 'boost']",['library'],https://svn.boost.org/trac/boost/wiki/SoC2017,http://www.boost.org/community/irc.html,https://summerofcode.withgoogle.com/archive/2017/organizations/5196100961042432/
+Boston University / XIA,Crowdsourcing the future Internet,"
+Cloud
+","['xia', ' linux kernel', ' c', ' advanced data structures']","['computer networking', ' future internet architecture', ' research']",https://github.com/AltraMayor/XIA-for-Linux/wiki/Ideas-list,http://groups.google.com/group/linux-xia,https://summerofcode.withgoogle.com/archive/2017/organizations/4874213160648704/
+BRL-CAD,"& LibreCAD, OpenSCAD, STEPcode, LinuxCNC, FreeCAD, & Slic3r!  Computer Graphics.","
+Graphics / Video / Audio / Virtual Reality
+","['c/c++', 'opencl', 'python', 'javascript', 'qt']","['cad', 'geometry', '3d', 'ray tracing', 'visualization']",http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas,http://brlcad.org/wiki/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/5302987798872064/
+Cadasta,"Transforming the way land & resource rights are documented, managed and stored.","
+End User Applications
+","['python', 'django', 'javasc', 'javascipt']","['web', 'land rights', 'mapping', 'geo', 'geospatial']",https://github.com/Cadasta/cadasta-project-ideas/wiki/Google-Summer-of-Code#cadasta-project-ideas,https://gitter.im/Cadasta/cadasta,https://summerofcode.withgoogle.com/archive/2017/organizations/6571413242642432/
+Catrobat,Computational thinking for all through visual mobile programming frameworks,"
+Programming Languages and Development Tools
+","['android', 'java', 'html5', 'ios', 'web']","['education', 'programming tools', 'app development', 'web applications', 'scratch']",http://catrob.at/gsoc17,https://github.com/Catrobat/Catroid/wiki/Setup-working-environment,https://summerofcode.withgoogle.com/archive/2017/organizations/5758529210155008/
+cBioPortal for Cancer Genomics,Developing open source solutions for precision medicine for cancer patients,"
+Science and Medicine
+","[' javascript', 'java', 'web', 'reactjs', 'web services']","['cancer', 'bioinformatics', 'big data', 'genomics', 'biology']",https://github.com/cBioPortal/GSoC/wiki/ideas,https://groups.google.com/forum/#!forum/cbioportal-gsoc,https://summerofcode.withgoogle.com/archive/2017/organizations/4741825894023168/
+CCExtractor Development,Tools for a subtitled world.,"
+Graphics / Video / Audio / Virtual Reality
+","['c', 'python', 'raspberry pi', 'linux', 'visual studio']","['subtitles', 'television', 'movies', 'media']",https://ccextractor.org/public:gsoc:ideas_page_for_summer_of_code_2017,http://www.ccextractor.org/doku.php?id=public:general:support,https://summerofcode.withgoogle.com/archive/2017/organizations/5267426006532096/
+Ceph,The Future of Storage,"
+Data and Databases
+","['c++', 'python', 'object-storage']","['cloud storage', 'storage']",http://ceph.com/gsoc2017-ideas,http://ceph.com/irc,https://summerofcode.withgoogle.com/archive/2017/organizations/6399849700261888/
+CERN-HSF,"CERN-HEPSoftwareFoundation, umbrella organization for particle physics in GSoC","
+Science and Medicine
+","['python', 'c/c++', 'machine learning', 'data analysis', 'parallel algorithms']","['particle physics', 'high-energy physics', 'machine learning', 'physics', 'big data']",http://hepsoftwarefoundation.org/activities/gsoc.html,http://hepsoftwarefoundation.org/activities/gsoc.html,https://summerofcode.withgoogle.com/archive/2017/organizations/6360460286754816/
+Chapel,a Productive Parallel Programming Language,"
+Programming Languages and Development Tools
+","['chapel', 'python', 'high performance computing', 'c', 'c++']","['programming languages', 'compilers', 'high performance computing', 'distributed computing', 'parallel computing']",http://chapel.cray.com/gsoc/ideas.html,http://chapel.cray.com/developers.html,https://summerofcode.withgoogle.com/archive/2017/organizations/4757669491507200/
+Checker Framework,"Preventing programming errors before they happen, via easy-to-use verification","
+Programming Languages and Development Tools
+",['java'],"['programmer productivity', 'software engineering', 'verification']",https://checkerframework.org/gsoc-2017-ideas.html,https://groups.google.com/forum/#!forum/checker-framework-gsoc,https://summerofcode.withgoogle.com/archive/2017/organizations/6349316859887616/
+Checkstyle,Dev tool to help programmers write Java code that adheres to a coding standard.,"
+Programming Languages and Development Tools
+","[' java', 'antlr']","['static code analysis\u200e', 'code review tool', 'coding standards', ' coding conventions']",https://github.com/checkstyle/checkstyle/wiki/Checkstyle-GSoC-2017-Project-Ideas,https://gitter.im/checkstyle/checkstyle,https://summerofcode.withgoogle.com/archive/2017/organizations/5883569398349824/
+Classical Language Toolkit,NLP for the ancient world,"
+Other
+","[' python', 'javascript']","['nlp', 'ai', 'machine', 'machine learning', 'machine trans']",https://github.com/cltk/cltk/wiki/Project-ideas#gsoc-projects,https://gitter.im/cltk/cltk,https://summerofcode.withgoogle.com/archive/2017/organizations/4904328934457344/
+"CLiPS, University of Antwerp",Computational (Psycho)Linguistics,"
+Data and Databases
+","['python', 'machine learning', 'mongodb', 'javascript ']","['text analytics', 'machine learning', 'computational linguistics', 'artificial intelligence', 'data mining']",http://www.clips.uantwerpen.be/projects/gsoc-2017,http://www.clips.uantwerpen.be:3001,https://summerofcode.withgoogle.com/archive/2017/organizations/4936781707345920/
+Clojure,Supporting the Clojure and ClojureScript ecosystem,"
+Programming Languages and Development Tools
+","['clojure', 'clojurescript', 'jvm', 'javascript', 'functional programming']","['programming language', 'development tools', 'compilers', 'functional programming', 'build systems']",http://clojure-gsoc.org/project-ideas.html,http://clojurians.net/,https://summerofcode.withgoogle.com/archive/2017/organizations/5054104644616192/
+Cloud Native Computing Foundation (CNCF),The CNCF is a nonprofit committed to the development of cloud native technology,"
+Cloud
+","['kubernetes', 'go', 'prometheus', 'fluentd', 'grpc']","['cloud', 'cloud native', 'monitoring', 'logging', 'tracing']",https://github.com/cncf/soc,http://slack.cncf.io/,https://summerofcode.withgoogle.com/archive/2017/organizations/6018829461225472/
+CloudCV,Building platforms for reproducible AI research,"
+Cloud
+","[' python', 'django', 'angularjs', 'reactjs', ' deep learning']","['artificial intelligence', 'machine learning', 'computer vision', 'web development', 'cloud computing']",http://gsoc.cloudcv.org,https://gitter.im/Cloud-CV,https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/
+CMU Sphinx,"Fast, Accurate, Flexible Open Source Speech Recognition","
+Graphics / Video / Audio / Virtual Reality
+","['c', 'cross-platform', 'hidden markov models', 'javascript ', ' python']","['speech recognition', 'user interface', 'real time', 'education', 'pronunciation']",http://cmusphinx.sourceforge.net/wiki/projectideas,http://cmusphinx.sourceforge.net/wiki/communicate,https://summerofcode.withgoogle.com/archive/2017/organizations/5510422639673344/
+coala,Linting and Fixing Code for All Languages,"
+Programming Languages and Development Tools
+",['python'],['code analysis'],https://projects.coala.io/,http://coala.io/chat,https://summerofcode.withgoogle.com/archive/2017/organizations/5817061024464896/
+Computational Biology @ University of Nebraska-Lincoln,Development of software technologies for biomedical research and applications.,"
+Science and Medicine
+","['javascript', 'react', 'java', 'webgl', 'mysql']","['computational biology', 'bioinformatics', 'network biology', 'systems biology', 'image analysis']",http://helikarlab.org/GSoC2017.html,mailto:helikarlab-gsoc@googlegroups.com,https://summerofcode.withgoogle.com/archive/2017/organizations/6732113738989568/
+Conversations.im,"Federated, end-to-end encrypted instant messaging based on XMPP/OMEMO","
+End User Applications
+","['xmpp', 'java', 'android', 'javafx', 'python']","['instant messaging', 'real time', 'usabilty', 'ui', 'ux']",https://conversations.im/gsoc.html,https://conversations.im/j/gsoc@conference.conversations.im,https://summerofcode.withgoogle.com/archive/2017/organizations/5967780016816128/
+Copyleft Games,"Game libraries, frameworks, and development toolkits","
+Graphics / Video / Audio / Virtual Reality
+","['python', 'opengl', 'javascript', 'c', 'xmpp']","['graphics', 'networking', 'web', 'education']",https://gsoc.copyleftgames.org/,https://gsoc.copyleftgames.org/,https://summerofcode.withgoogle.com/archive/2017/organizations/6180004551458816/
+DBpedia,"a Large, Multilingual, Semantic Knowledge Graph","
+Data and Databases
+","[' java', 'scala', 'graph', 'nosql', 'rdf']","['natural language processing', 'big data', 'semantic web', 'data science', 'knowledge extraction']",http://wiki.dbpedia.org/ideas/ideas/scope:all/sort:activity-desc/tags:gsoc17,http://wiki.dbpedia.org/gsoc2017,https://summerofcode.withgoogle.com/archive/2017/organizations/5195579256733696/
+Discourse,Civilized discussion for your community.,"
+Social / Communications
+","['ruby on rails', 'ember', ' ruby', 'javascipt', 'html/css']","['asynchronous', 'forum', 'community', ' real time', 'web development']",https://github.com/discourse/discourse/wiki/Summer-of-Code-2017-Ideas-List,https://github.com/discourse/discourse/wiki/Contact,https://summerofcode.withgoogle.com/archive/2017/organizations/4878856288731136/
+Django Software Foundation,The web framework for perfectionists with deadlines.,"
+Web
+","['python', 'django']","['web', 'web development']",http://code.djangoproject.com/wiki/SummerOfCode2017,https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/,https://summerofcode.withgoogle.com/archive/2017/organizations/4608650232463360/
+Drupal,"Drupal is a Free, Open, Modular CMS written in PHP. Let's make something amazing","
+Web
+","['php', ' symfony', ' sql', ' javascript', ' drupal 8']","['web', ' web development', ' content management', ' object-oriented', ' cms']",https://groups.drupal.org/node/515848,http://drupal.org/irc#drupal-google,https://summerofcode.withgoogle.com/archive/2017/organizations/6388224565968896/
+Eclipse Vert.x,Eclipse Vert.x is a tool-kit for building reactive applications on the JVM,"
+Programming Languages and Development Tools
+","['java', 'reactive extensions', 'kotlin', 'microservices', 'event-loop']","['reactive', 'unopionated', 'polyglot', 'distributed', 'high performance computing']",http://vertx.io/gsoc/,http://vertx.io/community/,https://summerofcode.withgoogle.com/archive/2017/organizations/5851994006749184/
+Elm Software Foundation,A delightful functional language for reliable webapps.,"
+Programming Languages and Development Tools
+","['elm', 'javascript', 'haskell']","['functional programming', 'compilers', 'web applications', 'programming languages', 'user interface']",https://github.com/elm-lang/projects/,http://elmlang.herokuapp.com/,https://summerofcode.withgoogle.com/archive/2017/organizations/5658990390280192/
+Environmental Data And Governance Initiative,International network addressing threats to US environmental & energy policy,"
+Data and Databases
+","['python', 'javascript', 'ruby on rails', 'google cloud', 'go']","['crawling', 'api', 'open data', 'machine learning', 'open science']",https://envirodatagov.org/gsoc/,https://archivers-slack.herokuapp.com/,https://summerofcode.withgoogle.com/archive/2017/organizations/4941941976334336/
+Fedora Project,"Fedora Linux is built on the foundations of Freedom, Friends, Features, & First","
+Operating Systems
+","['python', 'linux', 'git', 'postgres', 'ansible']","['linux distribution', 'upstream', 'community', 'web development', 'realtime messaging']",https://fedoraproject.org/wiki/Summer_coding_ideas_for_2017,https://webchat.freenode.net/?channels=#fedora-summer-coding,https://summerofcode.withgoogle.com/archive/2017/organizations/5870752142196736/
+FFmpeg,"Cross-platform software to convert audio, video and subtitles.","
+Graphics / Video / Audio / Virtual Reality
+","['c', 'assembly', 'git']","['multimedia', 'video', 'audio', 'filter', 'compressio']",https://trac.ffmpeg.org/wiki/SponsoringPrograms/GSoC/2017,https://ffmpeg.org/contact.html#IRCChannels,https://summerofcode.withgoogle.com/archive/2017/organizations/4641979178680320/
+FOSDEM,The organization that handles all aspects of the FOSDEM conference,"
+Programming Languages and Development Tools
+","['git', 'ruby on rails', 'postgresql', 'html/css']","['web', 'programming tools', 'programming languages', 'ruby', 'rails']",http://fosdem.org/gsoc2017ideas,http://webchat.freenode.net/?channels=fosdem-gsoc,https://summerofcode.withgoogle.com/archive/2017/organizations/5733807646834688/
+FOSSASIA,Improve People's Lives,"
+Other
+","['python', 'java', 'javascript', 'android', 'php']","['event management', 'machine learning', 'artificial intelligence', 'cloud']",http://labs.fossasia.org/ideas.html,http://blog.fossasia.org/contact/,https://summerofcode.withgoogle.com/archive/2017/organizations/5936828200779776/
+Free and Open Source Silicon Foundation,Umbrella for various projects around open source hardware and tools,"
+Other
+","['verilog', 'c', 'vhdl', 'python']","['hardware', 'eda tools', 'web']",http://fossi-foundation.org/gsoc17-ideas.html,http://fossi-foundation.org/getinvolved.html,https://summerofcode.withgoogle.com/archive/2017/organizations/5021512822161408/
+FreeBSD,FreeBSD: The Foundation of the Internet,"
+Operating Systems
+","['c/c++', 'llvm', 'shell', 'make', 'assembly']","['virtualization', 'kernel', 'cloud', 'embedded', 'security']",https://wiki.freebsd.org/SummerOfCodeIdeas,https://wiki.FreeBSD.org/SummerOfCodeIRC,https://summerofcode.withgoogle.com/archive/2017/organizations/5058101916991488/
+Freifunk,Freifunk is a non-commercial initiative for free and open wireless networks.,"
+Social / Communications
+","['lede/openwrt', 'c', 'html/css', 'shell script', ' javascript']","['wireless', 'routing', 'monitoring', 'firmware development', 'user interface']",https://wiki.freifunk.net/Ideas,https://wiki.freifunk.net/Freifunk-Chat,https://summerofcode.withgoogle.com/archive/2017/organizations/6004756195573760/
+Frescobaldi,Edit music scores with GNU LilyPond.,"
+End User Applications
+","['python', 'pyqt']",['music engraving'],https://github.com/wbsoft/frescobaldi/wiki/Google-Summer-of-Code,https://groups.google.com/forum/#!forum/frescobaldi,https://summerofcode.withgoogle.com/archive/2017/organizations/4597892144693248/
+"Genes, Genomes and Variation",Genome databases and browsers,"
+Science and Medicine
+","['mysql', 'perl', 'javascript']","['genomics', 'web']",http://www.ensembl.info/gsoc-2017/,http://lists.ensembl.org/mailman/listinfo/dev,https://summerofcode.withgoogle.com/archive/2017/organizations/5455879507804160/
+GENIVI Development Platform,Open Source Automotive Development Platform,"
+Programming Languages and Development Tools
+","['linux', 'c', 'yocto', 'c++', 'qt']","['automotive', 'cars', 'embedded systems', 'embedded', 'automobile']",https://at.projects.genivi.org/wiki/display/GDP/GDP+GSoC+ideas,https://at.projects.genivi.org/wiki/pages/viewpage.action?pageId=11567210#GENIVIDevelopmentPlatform(GDP)-HowdoIcontributetotheGENIVIDevelopmentPlatform?,https://summerofcode.withgoogle.com/archive/2017/organizations/4914104280023040/
+Gentoo Foundation,"A flexible, source-based Linux distribution.","
+Operating Systems
+","['shell', 'c/c++', 'python', 'linux']","['linux', 'package management', 'operating system', 'embedded', 'security']",https://wiki.gentoo.org/wiki/Google_Summer_of_Code/2017/Ideas,https://wiki.gentoo.org/wiki/Google_Summer_of_Code/2017/Application_Guidelines,https://summerofcode.withgoogle.com/archive/2017/organizations/6287928489672704/
+Git,"fast, scalable, distributed revision control system","
+Programming Languages and Development Tools
+","['c', ' shell script', ' git']","['version control', ' dvcs']",https://git.github.io/SoC-2017-Ideas/,http://git-scm.com/community,https://summerofcode.withgoogle.com/archive/2017/organizations/5061577619275776/
+Global Alliance for Genomics and Health,We develop open standards and tools for genomics to benefit human health.,"
+Science and Medicine
+","[' python', ' java', 'sql', 'c++', 'mongodb']","['genomics', 'standards', 'data sharing', ' bioinformatics', 'web']",https://docs.google.com/document/d/1cdrWkFMqwZ38revM3G-ROJSTeNnh-Zt2XE_DcXVxo1I/edit?usp=sharing,https://docs.google.com/document/d/1cdrWkFMqwZ38revM3G-ROJSTeNnh-Zt2XE_DcXVxo1I/edit?usp=sharing,https://summerofcode.withgoogle.com/archive/2017/organizations/6101170829393920/
+GNOME,Non-profit organization that creates a computing platform for the general public,"
+End User Applications
+","['c', 'python', 'gtk+', ' javascript', 'gobject']","['desktop', 'applications', 'operating system']",https://wiki.gnome.org/Outreach/SummerOfCode/2017/Ideas,https://wiki.gnome.org/Community/GettingInTouch/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/6040004186865664/
+GNSS-SDR,An open source Global Navigation Satellite Systems software-defined receiver,"
+Science and Medicine
+","['c/c++', 'c++', 'c++11', 'c++14', 'gnss']","['gnss', 'geolocation', 'navigation', 'software defined radio', 'communications']",http://gnss-sdr.org/google-summer-code-2017-ideas-list/,http://lists.sourceforge.net/lists/listinfo/gnss-sdr-developers,https://summerofcode.withgoogle.com/archive/2017/organizations/5204929132101632/
+GNU Octave,Free Your Numbers,"
+Programming Languages and Development Tools
+","['c++', 'hg']","['mathematics', ' numerical computation', 'matlab', 'scientific computing', 'numerical methods']",http://wiki.octave.org/Summer_of_Code_Project_Ideas,https://webchat.freenode.net/?channels=#octave,https://summerofcode.withgoogle.com/archive/2017/organizations/6187477526118400/
+GNU Radio,The Free & Open Software Radio Ecosystem,"
+Science and Medicine
+","['software defined radio', 'c++', 'python', 'dsp']","['wireless communication', 'signal processing', 'radar', 'gui']",http://gnuradio.org/redmine/projects/gnuradio/wiki/GSoCIdeas,http://gnuradio.org/redmine/projects/gnuradio/wiki/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/5467278887878656/
+Green Navigation,Energy efficient routing for electric vehicles,"
+Other
+","['javascript', 'java', 'react', 'apache spark', 'tensorflow']","['routing', 'eletric mobility', 'web', 'machine learning']",http://greennav.io/docs/ideas-page/,http://grennavigation.slack.com,https://summerofcode.withgoogle.com/archive/2017/organizations/6147412729004032/
+Haiku,Light open-source operating system that specifically targets personal computing.,"
+Operating Systems
+","['c++', 'posix']","[' desktop integration', 'operating system', 'kernel', 'user interface', 'frameworks']",https://www.haiku-os.org/community/gsoc/2017/ideas,https://www.haiku-os.org/community/irc,https://summerofcode.withgoogle.com/archive/2017/organizations/5096040436858880/
+Homebrew,Homebrew is a package manager for macOS written in Ruby.,"
+Programming Languages and Development Tools
+","['ruby', 'git', 'github', 'bash', 'macos']","['package management', 'distribution', 'development tools']",https://github.com/Homebrew/Outreachy-and-Google-Summer-of-Code,https://github.com/Homebrew/brew#community,https://summerofcode.withgoogle.com/archive/2017/organizations/6752289616297984/
+illumos.org,Open Source successor of OpenSolaris,"
+Operating Systems
+","['dtrace', 'illumos', 'unix', 'openzfs', 'zfs']","['drivers', 'virtualization', 'storage', 'networking', 'kernel']",https://wiki.illumos.org/display/illumos/Project+Ideas,https://wiki.illumos.org/display/illumos/Google+Summer+of+Code,https://summerofcode.withgoogle.com/archive/2017/organizations/6221940343701504/
+INCF,Advancing global collaborative brain research,"
+Science and Medicine
+","['c++', 'python', 'java', 'xml', 'gpu']","['neuroscience', 'big data', 'brain modeling', 'science', 'bio/neuro image processing']",https://www.incf.org/collaborate/tool-development/google-summer-of-code/gsoc-2017-project-ideas,mailto:gsoc@incf.org,https://summerofcode.withgoogle.com/archive/2017/organizations/6593178794721280/
+Inkscape,"Inkscape is a professional vector graphics editor for Windows, Mac OSX, & Linux.","
+Graphics / Video / Audio / Virtual Reality
+","['svg', 'css', 'c++', 'c++11', 'python']","[' graphics', 'web', 'standards', 'geometry']",http://wiki.inkscape.org/wiki/index.php/Google_Summer_of_Code#Suggested_Project_Ideas,https://inkscape.org/en/community/discussion/,https://summerofcode.withgoogle.com/archive/2017/organizations/5404830063394816/
+Institute for Artificial Intelligence,Research in Artificial Intelligence and Perception for Autonomous Mobile Robots,"
+Science and Medicine
+","['lisp', 'prolog', 'c++', 'python', 'ros']","['artificial intelligence', 'robotics', 'knowledge representation', 'machine learning', 'robot perception']",https://ai.uni-bremen.de/teaching/gsoc2017,https://gitter.im/iai_gsoc17/general,https://summerofcode.withgoogle.com/archive/2017/organizations/6330829038944256/
+Intel Media and Audio for Linux,"Open Source Media libraries, Applications and User space driver.","
+Graphics / Video / Audio / Virtual Reality
+","['video', 'decode', 'encode', 'vpp', 'multimedia']","['accelerated media', 'video', 'compress', 'encoding', 'camera']",https://01.org/documentation/gsoc-2017-ideas,https://01.org/linuxmedia/vaapi,https://summerofcode.withgoogle.com/archive/2017/organizations/6149200777576448/
+Internet Archive,Universal Access to All Knowledge,"
+Web
+","['python', 'javascript']","['web archiving', 'non-profit']",https://docs.google.com/a/archive.org/document/d/1MHCUroc4pGdUTfUZ-Ro67HVg-T46Jw07aYx0T4BnfHI/edit?usp=sharing,mailto:info@archive.org,https://summerofcode.withgoogle.com/archive/2017/organizations/5373878247358464/
+JBoss Community,Community of Java projects around JBoss Middleware,"
+Programming Languages and Development Tools
+","['java', 'android', 'asciidoctor', 'mobil', 'kubernetes']","['testing', 'monitoring', 'enterprise application', 'eclipse', 'openshift']",https://developer.jboss.org/wiki/JBossCommunityGoogleSummerOfCode2017Ideas,https://developer.jboss.org/wiki/JBossGSoCContactInformation,https://summerofcode.withgoogle.com/archive/2017/organizations/5307802188775424/
+JdeRobot - Universidad Rey Juan Carlos,A software framework for developing applications in robotics and computer vision,"
+Other
+","['python', 'c/c++', 'ros', 'gazebo']","['robotics', 'computer vision', 'robot simulator', 'teaching']",http://jderobot.org/Collaborate#Ideas_List_.28for_Google_Summer_of_Code_2017.29,http://jderobot.org/Collaborate#Mailing_List,https://summerofcode.withgoogle.com/archive/2017/organizations/4923454155390976/
+Jitsi,Advanced Real-Time Communication,"
+Social / Communications
+","['webrtc', 'java', 'javascript', 'sip', 'xmpp']","['multimedia', 'real time']",https://jitsi.org/Development/GSoC17,https://jitsi.org/Development/MailingLists,https://summerofcode.withgoogle.com/archive/2017/organizations/5461033468559360/
+Joomla,A free and Open Source CMS Trusted By Millions for their Websites,"
+Web
+","['php', 'html', 'html/css', ' javascript', 'jquery']","['web', 'web application', ' cms', ' object-oriented']",https://docs.joomla.org/GSOC_2017_Project_Ideas,http://irc.lc/freenode/joomla/,https://summerofcode.withgoogle.com/archive/2017/organizations/5861923971137536/
+JSK Robotics Laboratory,Humanoid Robotics Laboratory at the University of Tokyo,"
+Science and Medicine
+","['ros', 'lisp', 'prolog', 'openhrp', 'openrtm']","['robotics', 'artificial intelligence']",http://www.jsk.imi.i.u-tokyo.ac.jp/gsoc/2017,https://gitter.im/euslisp/jskeus,https://summerofcode.withgoogle.com/archive/2017/organizations/6380010977886208/
+K-9 Mail,K-9 Mail – Advanced Email for Android,"
+End User Applications
+","['android', 'java']","['email', 'communication']",https://github.com/k9mail/k-9/wiki/Google-Summer-of-Code-2017,https://riot.im/app/#/room/#freenode_#k-9,https://summerofcode.withgoogle.com/archive/2017/organizations/6184001823834112/
+KDE,Experience Freedom!,"
+End User Applications
+","['c++', 'qt', 'qt5']","['desktop', 'desktop application', 'education', 'science', 'communication']",https://community.kde.org/GSoC/2017/Ideas,https://userbase.kde.org/IRC_Channels,https://summerofcode.withgoogle.com/archive/2017/organizations/5586250824155136/
+LabLua,Programming Languages Research with emphasis on  the Lua language,"
+Programming Languages and Development Tools
+","['lua', 'céu']","['scripting languages', 'reactive programming']",http://www.lua.inf.puc-rio.br/gsoc/ideas2017.html,http://groups.google.com/group/labluagsoc,https://summerofcode.withgoogle.com/archive/2017/organizations/5842237585883136/
+LibreHealth,Healthcare for Humanity,"
+Science and Medicine
+","['java', 'php', 'javascript', 'mysql']",['web'],https://forums.librehealth.io/ideas,https://chat.librehealth.io,https://summerofcode.withgoogle.com/archive/2017/organizations/5574687430017024/
+LibreOffice,"Free Office Suite, Fun Project, Fantastic People","
+End User Applications
+","['c++', 'python', 'java']","['office suite', 'desktop application']",https://wiki.documentfoundation.org/Development/GSoC/Ideas,https://wiki.documentfoundation.org/Website/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/5507893709242368/
+libvirt,virtualization abstraction library,"
+Cloud
+","['kvm', 'xen', 'hypervisor']","['virtualization', 'library']",http://wiki.libvirt.org/page/Google_Summer_of_Code_Ideas,http://libvirt.org/contact.html#irc,https://summerofcode.withgoogle.com/archive/2017/organizations/6082542885142528/
+Liquid Galaxy Project,Get immersed in open-source!,"
+Graphics / Video / Audio / Virtual Reality
+","['javascript', 'ros', 'gis', 'cesiumjs']","['virtual reality', 'geospatial', 'visualisation', 'graphics', 'webvr']",https://github.com/LiquidGalaxy/liquid-galaxy/wiki/GSoC2017IdeasPage,mailto:lg-gsoc@endpoint.com,https://summerofcode.withgoogle.com/archive/2017/organizations/5279287632461824/
+LLVM Compiler Infrastructure,llvm,"
+Programming Languages and Development Tools
+","['llvm', 'clang']","['compiler', 'compilers']",http://llvm.org/OpenProjects.html#gsoc17,http://llvm.org/docs/#irc,https://summerofcode.withgoogle.com/archive/2017/organizations/6215410651234304/
+lowRISC,Creating a fully open-source SoC design,"
+Other
+","['verilog', 'chisel', 'risc-v', 'linux']","['fpga', 'hardware', 'soc', 'security']",http://www.lowrisc.org/docs/gsoc-2017-ideas/,https://listmaster.pepperfish.net/cgi-bin/mailman/listinfo/lowrisc-dev-lists.lowrisc.org,https://summerofcode.withgoogle.com/archive/2017/organizations/5688479367299072/
+LuaRocks,The package manager for the Lua programming language,"
+Programming Languages and Development Tools
+","['lua', ' lua', 'luarocks']","['programming tools', 'programming language', 'package management']",http://luarocks.github.io/luarocks/gsoc/ideas2017.html,http://gitter.im/luarocks/luarocks,https://summerofcode.withgoogle.com/archive/2017/organizations/5624527572697088/
+MariaDB,One of the most popular databases on the web with many notable users,"
+Data and Databases
+","['mariadb', 'mysql', 'c', 'c++', 'java']",['database'],https://mariadb.com/kb/en/mariadb/google-summer-of-code-2017/,https://mariadb.com/kb/en/meta/irc/,https://summerofcode.withgoogle.com/archive/2017/organizations/4752192066027520/
+Matrix.org,An ambitious open source project creating a new decentralised comms ecosystem.,"
+Social / Communications
+","['react', ' android', 'ios', 'golang', 'nodejs']","[' real time', 'communication', 'collaboration', 'decentralisation', 'interoperability']",https://github.com/matrix-org/GSoC/blob/master/IDEAS.md,https://github.com/matrix-org/GSoC/blob/master/README.md,https://summerofcode.withgoogle.com/archive/2017/organizations/6700587336859648/
+MBDyn,High fidelity multibody dynamics engine with extended capabilities,"
+Science and Medicine
+","['c++', 'python']","['engineering', 'science', 'numerical methods', 'aerospace', 'mechanics']",https://louisgag.github.io/mbdyn-gsoc-projects/,http://lists.mbdyn.org/mailman/listinfo/mbdyn-users,https://summerofcode.withgoogle.com/archive/2017/organizations/6633793616084992/
+MetaBrainz Foundation Inc.,MetaBrainz operates MusicBrainz and a number of related open data projects.,"
+Data and Databases
+","['postgres', 'perl', 'python', 'javascript', 'bigquery']","['music', 'data', 'big data', 'open data', 'community']",http://wiki.musicbrainz.org/Development/Summer_of_Code/2017,https://metabrainz.org/contact,https://summerofcode.withgoogle.com/archive/2017/organizations/5723792051535872/
+Metasploit,Open Source framework for exploit development and penetration testing,"
+Security
+","['ruby', 'c', 'asm']","['security', 'exploitation']",https://github.com/rapid7/metasploit-framework/wiki/GSoC-2017-Project-Ideas,https://github.com/rapid7/metasploit-framework/wiki/Contact,https://summerofcode.withgoogle.com/archive/2017/organizations/5632986779222016/
+Microkernel devroom,"Confederation of microkernel projects (Genode, HelenOS, GNU Hurd, MINIX, Redox)","
+Operating Systems
+","['c', 'c++', 'rust', 'arm', 'x86']","['microkernel', 'components', 'ipc', 'desktop', 'virtualization']",http://gsoc.microkernel.info/,mailto:gsoc@microkernel.info,https://summerofcode.withgoogle.com/archive/2017/organizations/5026327212064768/
+Mifos Initiative,End Poverty One Line of Code at a Time,"
+End User Applications
+","['java', 'android', 'angularjs', 'spring', 'mysql']","['fintech', 'mobile banking', 'digital financial services', 'microfinance', 'financial inclusion']",https://mifosforge.jira.com/wiki/display/RES/Google+Summer+of+Code+2017+Ideas,https://gitter.im/openMF/mifos,https://summerofcode.withgoogle.com/archive/2017/organizations/5486404108812288/
+MIT App Inventor,Empowering anyone to make their world a better place,"
+Programming Languages and Development Tools
+","['java', 'javascipt', 'app', 'google app engine', 'gwt']","['mobile apps', 'api', 'blockchain', 'education', 'iot']",https://github.com/mit-cml/appinventor-sources/wiki/Projects-GSoC-17,https://groups.google.com/forum/#!forum/app-inventor-open-source-dev,https://summerofcode.withgoogle.com/archive/2017/organizations/6712150730997760/
+Mixxx DJ Software,DJ Your Way. For Free.,"
+Graphics / Video / Audio / Virtual Reality
+","['qt', 'c++', 'c++11', 'midi', 'hid']","['audio', 'dsp', 'music', 'dj', 'art']",https://mixxx.org/wiki/doku.php/gsoc2017ideas,http://mixxx.org/irc,https://summerofcode.withgoogle.com/archive/2017/organizations/5298974017716224/
+mlpack,a scalable C++ machine learning library,"
+Data and Databases
+",['c++'],['machine learning'],https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas,http://webchat.freenode.net/?channels=mlpack,https://summerofcode.withgoogle.com/archive/2017/organizations/5584462775582720/
+Mobile Robot Programming Toolkit (MRPT),Mobile Robot Programming Toolkit: empowering C++ development in robotics,"
+Science and Medicine
+","['qt', 'c++', 'opengl', 'wxwidgets', 'ros']","['robotics', 'slam', 'computer vision', 'webapps', 'algorithms']",https://github.com/MRPT/mrpt/wiki/Ideas-page-for-MRPT-Google-Summer-of-Code-2017,https://groups.google.com/forum/#!forum/mrpt-users,https://summerofcode.withgoogle.com/archive/2017/organizations/5289044053327872/
+Mono Project,Cross-platform C#/F#/.NET runtime and tools,"
+Programming Languages and Development Tools
+","['c#', '.net', 'f#', 'c']","['compiler', 'ide', 'mobile development', 'web development', 'programming tools']",http://www.mono-project.com/community/google-summer-of-code/projects,http://www.mono-project.com/community/help/irc/,https://summerofcode.withgoogle.com/archive/2017/organizations/4814565460148224/
+Moodle,The world's open source learning platform,"
+Social / Communications
+","['php', 'jquery', 'mysql', 'postgresql', ' javascript']","['education', 'web application', 'e-learning', 'school system', 'learning management']",https://docs.moodle.org/dev/Projects_for_new_developers,https://telegram.me/moodledev,https://summerofcode.withgoogle.com/archive/2017/organizations/5171600185884672/
+MovingBlocks,Terasology: like an open source Minecraft - imagine the possibilities!,"
+End User Applications
+","['java', 'opengl', 'blender', 'json', 'gradle']","['games', 'voxel', 'minecraft', 'sandbox', 'modding']",https://github.com/MovingBlocks/Terasology/wiki/GSOC,https://github.com/MovingBlocks/Terasology/wiki/Using-IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/4985951029821440/
+Mozilla,"Internet for people, not profit.","
+Web
+","['js', 'rust', 'html/css', 'c++', 'python']","['web', ' web platform and services', 'education', 'web browser']",https://wiki.mozilla.org/Community:SummerOfCode17,https://wiki.mozilla.org/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/6414943960170496/
+MuseScore,Free and open-source music notation software,"
+Graphics / Video / Audio / Virtual Reality
+","['c++11', 'qt5', 'qt', 'breakpad']","['music engraving', 'music', 'midi', 'sheet music']",https://musescore.org/en/developers-handbook/google-summer-code/ideas-2017,https://musescore.org/en/development#Get-help-from-other-developers,https://summerofcode.withgoogle.com/archive/2017/organizations/4738118800375808/
+National Resource for Network Biology (NRNB),Developing open source software to enable network-based biomedical discovery,"
+Science and Medicine
+","['java', ' javascript', 'python', 'php', 'c++']","['network biology', 'graphics', 'web', 'ui/ux', 'database']",https://github.com/nrnb/GoogleSummerOfCode/issues,https://groups.google.com/forum/#!forum/cytoscape-helpdesk,https://summerofcode.withgoogle.com/archive/2017/organizations/6499778154201088/
+Netfilter project,FOSS community-driven project that provides firewalling tools for Linux,"
+Operating Systems
+","['linux', 'kernel', 'c']","['firewall', 'networking']",http://people.netfilter.org/pablo/nf-ideas-2017.txt,mailto:pablo@netfilter.org,https://summerofcode.withgoogle.com/archive/2017/organizations/6602954140286976/
+Nmap Security Scanner,Swiss Army knife of network discovery and security auditing,"
+Security
+","['c/c++', 'lua', 'python', 'c', 'c++']","['security', 'networking', 'ipv6', 'linux', 'network mapping']",https://nmap.org/soc/,http://webchat.freenode.net/?channels=nmap,https://summerofcode.withgoogle.com/archive/2017/organizations/5603880054292480/
+NumFOCUS,NumFOCUS promotes open source scientific software.,"
+Science and Medicine
+","['python', 'javascript', 'r', 'c/c++']","['scientific computing', ' numerical computation', ' graphics', ' data science']",https://github.com/numfocus/gsoc/blob/master/2017/ideas-list.md,https://groups.google.com/a/numfocus.org/forum/#!forum/gsoc,https://summerofcode.withgoogle.com/archive/2017/organizations/6630791836598272/
+Open Bioinformatics Foundation,Promoting practice & philosophy of OSS & Open Science in biological research.,"
+Science and Medicine
+","[' python', 'perl', 'java', 'c++', 'c/c++']",['bioinformatics'],http://obf.github.io/GSoC/ideas/,http://obf.github.io/GSoC/contact/,https://summerofcode.withgoogle.com/archive/2017/organizations/6098536001175552/
+Open Chemistry,Advancing Open Source and Open Science for Chemistry,"
+Science and Medicine
+","['python', 'c++', 'opengl', 'javascript', 'java']","['scientific visualization', 'graphics', 'chemistry', 'data science']",http://wiki.openchemistry.org/GSoC_Ideas_2017,http://public.kitware.com/mailman/listinfo/openchemistry-developers,https://summerofcode.withgoogle.com/archive/2017/organizations/5928781713768448/
+Open Data Kit,Open Data Kit is used to collect data for social good in difficult environments.,"
+End User Applications
+","['android', 'java', 'python', 'javascript', 'ruby']","[' mobile', 'cloud', 'global development', 'global health', 'social good']",https://docs.google.com/document/d/1Huv9rBLFncsd-NF-Hip6wefZ9ARqatlgl2lLXbZHcuQ,http://slack.opendatakit.org,https://summerofcode.withgoogle.com/archive/2017/organizations/4593100034932736/
+Open Detection,Open Detection is a open source project for object detection and recognition.,"
+Other
+","['c++', 'caffe', 'pcl', 'opencv']","['computer vision', 'ai']",http://opendetection.com/idea_list_gsoc2017.html,https://groups.google.com/forum/#!forum/opendetection/,https://summerofcode.withgoogle.com/archive/2017/organizations/6015282623545344/
+Open Genome Informatics,Open Genome Informatics represents the efforts of many bioinformatics projects.,"
+Science and Medicine
+","['python', 'java', 'javascript', 'nodejs', 'gwt']","['bioinformatics', 'data mining', 'genome', 'databases', 'computational biology']",http://gmod.org/wiki/GSOC_Project_Ideas_2017,http://irc.lc/freenode/genomeinformatics/,https://summerofcode.withgoogle.com/archive/2017/organizations/4997812655751168/
+Open States,Opening State Legislatures,"
+Other
+","['python', 'django', 'javascript', 'postgresql']","['government', 'web', 'journalism', 'civic']",https://github.com/openstates/planning/wiki/GSoC-2017-Overview#ideas,https://openstates-slack.herokuapp.com/,https://summerofcode.withgoogle.com/archive/2017/organizations/5076494711783424/
+Open Technologies Alliance - GFOSS,Promote Openness through use and development of Open Standards and Technologies,"
+Other
+","[' php', ' java', ' mysql', ' virtuoso', 'python']","['data', 'cloud', 'hardware']",https://ellak.gr/wiki/index.php?title=GSOC2017_Ideas,https://lists.ellak.gr/opensource-devs/listinfo.html,https://summerofcode.withgoogle.com/archive/2017/organizations/6266968780832768/
+OpenAstronomy,Opening the eyes of research astronomy software to the whole world.,"
+Science and Medicine
+","['python', 'julia', 'qt']","['visualisation', 'data science', 'astrophysics', 'solar physics']",http://openastronomy.org/gsoc/gsoc2017/,http://openastronomy.org,https://summerofcode.withgoogle.com/archive/2017/organizations/6563063020912640/
+OpenCV,Open Source Computer Vision and Machine Learning Library,"
+Graphics / Video / Audio / Virtual Reality
+","['vision', ' deep learning', ' c++', ' python']","['computer vision', ' deep learning', ' robotics', ' virtual reality', ' real time']",https://github.com/opencv/opencv/wiki/GSoC_2017,http://opencv.org,https://summerofcode.withgoogle.com/archive/2017/organizations/6424873924558848/
+OpenMRS,Write Code. Save Lives.,"
+Science and Medicine
+","['java', 'javascript', 'html/css', 'hibernate', 'mysql']","['clinical', 'developing world', 'medical records']",http://om.rs/soc2017,http://irc.openmrs.org/,https://summerofcode.withgoogle.com/archive/2017/organizations/6111850936664064/
+OpenStreetMap,OpenStreetMap - Creating and distributing free geographic data for the world.,"
+Data and Databases
+","['postgis', ' java', ' ruby', ' javascript']","['gis', ' maps', ' crowdsourcing', ' geoinformatics']",https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2017/Project_Ideas,http://wiki.openstreetmap.org/wiki/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/6746951777255424/
+openSUSE,"The makers' choice for sysadmins, developers and desktop users.","
+Operating Systems
+","['ruby on rails', 'javascript ', 'docker', 'linux', 'angular.js']","['linux distribution', 'web development', 'realtime', 'virtualization', 'conferences']",http://101.opensuse.org/gsoc/,https://en.opensuse.org/openSUSE:IRC_list,https://summerofcode.withgoogle.com/archive/2017/organizations/6729779961135104/
+OpenWISP,Open Source solution to build and manage wifi networks,"
+Web
+","['python', 'django', 'javascript', 'openwrt', 'raspberry pi']","['networking', 'wireless', 'configuration management', 'telecommunications', 'web']",http://openwisp.org/gsoc/ideas-2017.html,http://openwisp.org/support.html,https://summerofcode.withgoogle.com/archive/2017/organizations/4763591446102016/
+Oppia Foundation,Oppia is a tool for collaboratively building interactive and intelligent tutors.,"
+Web
+","['python', 'google app engine', 'angularjs', 'javascript', 'css']","['education', 'interactive', 'web', 'tools', 'community']",https://github.com/oppia/oppia/wiki/Google-Summer-of-Code-2017#oppias-project-ideas,https://gitter.im/oppia/oppia-chat,https://summerofcode.withgoogle.com/archive/2017/organizations/6040525891174400/
+OSGeo,Open Source Geospatial Foundation,"
+End User Applications
+","['c++', ' python', ' c', ' sql', 'java']","['gis', ' cartography', ' maps', ' science', ' geospatial']",https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2017_Ideas,https://wiki.osgeo.org/wiki/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/
+oVirt,Open virtual datacenter management for all,"
+End User Applications
+","['java', ' python', 'kvm']","['virtualization', 'enterprise application']",http://www.ovirt.org/community/activities/summer-of-code/,https://www.ovirt.org/community/,https://summerofcode.withgoogle.com/archive/2017/organizations/5718999941775360/
+ownCloud,A safe home for all your data,"
+Cloud
+","['php', 'qt', ' android', 'ios', 'javascript']","['cloud', 'sync', 'file share']",https://github.com/owncloud/core/wiki/Google-Summer-of-Code,https://webchat.freenode.net/?channels=owncloud,https://summerofcode.withgoogle.com/archive/2017/organizations/5721528872206336/
+P2PSP.org,Shaping the future Internet TV,"
+Graphics / Video / Audio / Virtual Reality
+","['c++', 'python', 'qt', 'sockets', 'webrtc']","['p2p', 'multimedia', 'streaming', 'security', 'video']",http://p2psp.org/en/news/77-gsoc-2017-ideas-page,https://gitter.im/P2PSP/core,https://summerofcode.withgoogle.com/archive/2017/organizations/6195936732643328/
+PEcAn Project,Develop accessible tools for reproducible ecosystem modeling and forecasting,"
+Science and Medicine
+","['r', ' php', 'postgresql', 'javascript ', 'c']","['ecosystem models', 'ecological forecasting', 'scientific visualization', 'data science', 'climate science']",http://pecanproject.github.io/gsoc_ideas.html,http://pecanproject.github.io/contact.html,https://summerofcode.withgoogle.com/archive/2017/organizations/4773366791667712/
+Performance Co-Pilot,System-level performance analysis toolkit,"
+Operating Systems
+","['python', 'javascript', 'c', 'linux', 'windows']","['high performance computing', 'visualization', ' web development', 'kernel', 'performance']",http://pcp.io/gsoc/2017/ideas.html,http://pcp.io/community.html,https://summerofcode.withgoogle.com/archive/2017/organizations/5840169290694656/
+Pharo Consortium,Pharo: The Immersive Programming Experience,"
+Programming Languages and Development Tools
+","['smalltalk', 'roassal', 'polymath', 'pharo']","['object oriented programming', 'dynamic environment', 'data science', 'user interface', 'ide']",http://gsoc.pharo.org/,https://pharoproject.slack.com,https://summerofcode.withgoogle.com/archive/2017/organizations/5691803940421632/
+phpBB Forum Software,phpBB is the most widely used free and open source forum software,"
+Social / Communications
+","['php ', 'mysql', 'javascript', 'symfony', 'css']","['social', 'communication', 'collaboration', 'forum', 'community']",https://www.phpbb.com/development/gsoc/ideas,https://www.phpbb.com/support/irc,https://summerofcode.withgoogle.com/archive/2017/organizations/5715998162288640/
+phpMyAdmin,A web interface for MySQL written in PHP,"
+Data and Databases
+","['php', 'mysql', 'jquery', 'javascript', 'cakephp']","['database', 'mysql', 'developer', 'administrator', 'web application']",https://github.com/phpmyadmin/phpmyadmin/wiki/GSoC_2017_ideas_list,https://github.com/phpmyadmin/phpmyadmin/wiki/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/5535586047754240/
+Physical Web Project,Physical Web GSoC project based on the Physical Web,"
+Other
+","['beacon', 'web bluetooth', 'physical web', 'bluetooth']","['internet of things', 'beacons']",http://physical-web-project.github.io/,mailto:physicalwebproject@gmail.com,https://summerofcode.withgoogle.com/archive/2017/organizations/6491731667189760/
+Plone Foundation,The premier python-based open source CMS,"
+Web
+","['python', ' javascript', 'html/css']","[' content management', 'cms']",https://plone.org/community/gsoc/ideas/,https://community.plone.org,https://summerofcode.withgoogle.com/archive/2017/organizations/4530756705583104/
+PMD,An extensible cross-language static code analyzer.,"
+Programming Languages and Development Tools
+","['java', 'javacc', 'xml', 'antlr', 'xpath']","['code quality', 'source code analyzer', 'code analysis', 'linter']",https://github.com/pmd/pmd/wiki/Project-Ideas-%5BMature%5D,https://lists.sourceforge.net/lists/listinfo/pmd-devel,https://summerofcode.withgoogle.com/archive/2017/organizations/5158578918785024/
+Polly Labs,Promoting Polyhedral Compilation,"
+Programming Languages and Development Tools
+","['llvm', 'integer set library', 'ppcg', 'pencil', 'polly']","['polyhedral compilation', 'parallelization', 'program verification', 'optimization', 'fpga']",http://pollylabs.org/gsoc2017.html,https://groups.google.com/forum/#!forum/isl-development,https://summerofcode.withgoogle.com/archive/2017/organizations/4788561849090048/
+Portland State University,Individual and Academic Open Source,"
+Other
+","['open hardware', 'language-agnostic']","['new projects', 'academic projects', 'individual projects']",http://wiki.cs.pdx.edu/psu-gsoc/ideas.html,mailto:psu-gsoc-2017@googlegroups.com,https://summerofcode.withgoogle.com/archive/2017/organizations/5827042528460800/
+PostgreSQL,"PostgreSQL is a powerful, open source object-relational database system.","
+Data and Databases
+","['postgresql', 'c', 'perl', 'sql']","['database', 'rdbms']",https://wiki.postgresql.org/wiki/GSoC_2017,https://www.postgresql.org/community/irc/,https://summerofcode.withgoogle.com/archive/2017/organizations/5443503559540736/
+Public Lab,Open hardware and software to help communities measure and analyze pollution,"
+Other
+","[' javascript', ' ruby', 'ruby on rails']","['environment', 'pollution', 'hardware', 'science', 'community']",http://publiclab.org/wiki/gsoc-ideas,http://gitter.im/publiclab/publiclab,https://summerofcode.withgoogle.com/archive/2017/organizations/6029803371102208/
+Python Software Foundation,Python is a programming language used by scientists & software developers alike.,"
+Science and Medicine
+",['python'],"['hardware', 'programming languages', ' science']",http://python-gsoc.org/,http://python-gsoc.org/#contact,https://summerofcode.withgoogle.com/archive/2017/organizations/5370985721102336/
+QEMU,Open source machine emulator and virtualizer,"
+Other
+","['c', 'python']","['compiler', 'virtualization', 'emulation', 'hypervisor']",http://wiki.qemu-project.org/Google_Summer_of_Code_2017,http://www.qemu-project.org/contribute/,https://summerofcode.withgoogle.com/archive/2017/organizations/4782716667035648/
+Qubes OS,A reasonably secure operating system,"
+Operating Systems
+","['c', 'python', 'shell', 'xen', 'linux']","['security', 'privacy', 'virtualization', 'operating system']",https://www.qubes-os.org/gsoc/,https://www.qubes-os.org/mailing-lists/,https://summerofcode.withgoogle.com/archive/2017/organizations/5074771758809088/
+R project for statistical computing,R is a free software environment for statistical computing and graphics,"
+Programming Languages and Development Tools
+","['r-project', 'c', 'c++', 'fortran', 'javascript']","['data science', 'visualization', 'machine learning', 'statistics', ' graphics']",https://github.com/rstats-gsoc/gsoc2017/wiki/table-of-proposed-coding-projects,https://github.com/rstats-gsoc/gsoc2017/wiki,https://summerofcode.withgoogle.com/archive/2017/organizations/5555424770129920/
+radare2,Radare2 reverse engineering framework and toolset,"
+Security
+","['c', 'rust', 'python', 'nodejs']",['reverse engineering'],http://radare.org/gsoc/2017/ideas.html,http://radare.org/r/me.html,https://summerofcode.withgoogle.com/archive/2017/organizations/4795019735072768/
+ReactOS,"ReactOS is a free, open source, Windows compatible operating system.","
+Operating Systems
+","['c', 'c++']","['operating systems', 'drivers', 'desktop', 'kernel', 'windows']",https://www.reactos.org/wiki/Google_Summer_of_Code_2017_Ideas,https://reactos.org/irc,https://summerofcode.withgoogle.com/archive/2017/organizations/6057879303880704/
+Red Hen Lab,Research on Multimodal Communication,"
+Science and Medicine
+","['high performance computing', 'machine learning', 'opencv', 'audio processing', 'multimodal analysis']","['natural language processing', 'co-speech gesture', 'big data visualization', 'deep learning', 'multimedia']",http://www.redhenlab.org/summer-of-code/summer-of-code-2017---ideas-page,mailto:redhenlab@gmail.com,https://summerofcode.withgoogle.com/archive/2017/organizations/6645492838563840/
+RoboComp,A simple robotics framework.,"
+Other
+","['c++', 'cmake', 'python', 'openscenegraph', 'qt']","['computer vision', 'robotics', 'robotics simulation']",http://robocomp.github.io/website/2017/02/07/gsoc17ideas/,https://gitter.im/robocomp/home,https://summerofcode.withgoogle.com/archive/2017/organizations/5477575937753088/
+Rocket.Chat,The ultimate open source chat and messaging platform,"
+Social / Communications
+","['javascript', 'meteor.js', 'mongo', 'webrtc']","['chat', 'progressive web apps', 'realtime', 'collaboration', 'instant messaging']",https://rocket.chat/docs/contributing/google-summer-of-code,https://demo.rocket.chat/channel/gsoc17,https://summerofcode.withgoogle.com/archive/2017/organizations/5788044225413120/
+Rspamd,High-performance spam filtering system,"
+Social / Communications
+","['c', 'lua', 'cmake']","['machine learning', 'email', 'spam filtering']",https://rspamd.com/ideas.html,https://rspamd.com/support.html,https://summerofcode.withgoogle.com/archive/2017/organizations/5230067307249664/
+RTEMS Project,RTEMS is a real-time operating system used around the world and in space.,"
+Operating Systems
+","['c', 'python', 'posix']","['real time', 'operating system', 'kernel', 'embedded systems', 'multicore']",https://devel.rtems.org/wiki/Developer/OpenProjects,https://devel.rtems.org/wiki/Developer/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/6586933375401984/
+Ruby on Rails,Ruby on Rails make web application development easy and fun.,"
+Web
+","['html', 'ruby on rails', 'ruby']","['web', 'full stack']",https://github.com/railsgsoc/ideas/wiki/2017-Ideas,http://rubyonrails.org/community/,https://summerofcode.withgoogle.com/archive/2017/organizations/5017499041005568/
+Ruby Science Foundation,Tools for Scientific Computing in Ruby,"
+Science and Medicine
+","[' ruby', 'science', 'web', 'data', 'gpu']","['science', 'data', 'web', 'package management', 'hpc']",https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2017-Ideas,http://sciruby.com/#irc,https://summerofcode.withgoogle.com/archive/2017/organizations/6710362682425344/
+Sage Mathematical Software System,open source math software,"
+Science and Medicine
+","['python', 'cython', 'c++', 'c']","['mathematics', 'algorithms']",https://wiki.sagemath.org/GSoC/2017,https://groups.google.com/group/sage-gsoc/,https://summerofcode.withgoogle.com/archive/2017/organizations/5071296056524800/
+Samba,Opening windows to a wider world.,"
+Cloud
+","['c', 'python']","['samba', 'networks', 'interoperability']",https://wiki.samba.org/index.php/SoC/Ideas,https://wiki.samba.org/index.php/SoC/Ideas,https://summerofcode.withgoogle.com/archive/2017/organizations/5093706659004416/
+Scala,The programming language where object-oriented meets functional.,"
+Programming Languages and Development Tools
+","['scala', 'jvm']","['compiler', 'programming tools', 'functional programming', 'programming languages']",http://scala-lang.org/gsoc/2017.html,https://gitter.im/scala/scala,https://summerofcode.withgoogle.com/archive/2017/organizations/6452441306365952/
+Scilab,Numerical computational package and high-level programming language.,"
+End User Applications
+","['c++', 'java', 'python', 'c', 'opengl']","['graphics', 'numerical computing', 'programming language', 'scientific visualization']",https://wiki.scilab.org/GSoC_project_proposal,https://www.scilab.org/resources/user_community/irc,https://summerofcode.withgoogle.com/archive/2017/organizations/6603475844595712/
+ScummVM,ScummVM is a GSoC umbrella for game preservation projects,"
+End User Applications
+","['c++', 'sdl', 'opengl', 'assembly']","['game', 'engines', 'software preservation']",http://wiki.scummvm.org/index.php/Summer_of_Code/GSoC_Ideas_2017,http://wiki.scummvm.org/index.php/Summer_of_Code/GSoC_Contact,https://summerofcode.withgoogle.com/archive/2017/organizations/6165044375060480/
+Shogun Machine Learning Toolbox,Unified and efficient Machine Learning,"
+Science and Medicine
+","['c/c++', 'python', 'swig', 'machine learning', 'cmake']","['machine learning', ' statistics', ' fast algorithms', ' bioinformatics', ' software engineering']",https://github.com/shogun-toolbox/shogun/wiki/Google-Summer-of-Code-2017-Projects,http://shogun-toolbox.org/,https://summerofcode.withgoogle.com/archive/2017/organizations/4704476053110784/
+Sigmah,Java/GWT platform for humanitarian project management,"
+End User Applications
+","['gwt', 'java', 'postgresql']","['humanitarian', 'project-management']",http://wiki.sigmah.org/doku.php?id=ssoc:ideas4gsoc2017,http://wiki.sigmah.org/doku.php?id=contributorguide:projectcommunitycommunication#sigmah_irc_channelwhere_we_can_chat_live,https://summerofcode.withgoogle.com/archive/2017/organizations/5019976297611264/
+Software Product Data Exchange (SPDX),Promoting open source compliance through standard communication of SW licenses.,"
+Programming Languages and Development Tools
+","['rdf', 'python', 'java', ' github', 'c']","['compliance', 'opensource', 'licensing']",http://wiki.spdx.org/view/GSOC/GSOC_ProjectIdeas,https://lists.spdx.org/mailman/listinfo/spdx-tech,https://summerofcode.withgoogle.com/archive/2017/organizations/6300304437936128/
+STE||AR Group,The C++ Standards Library for Concurrency and Parallelism,"
+Other
+","['c++', 'boost', 'hpx', 'c++17 parallel stl', 'parallel algorithms']","['runtime systems', 'c++ standardizaion', 'algorithms', 'parallel computing', 'high performance computing']",https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2017-Project-Ideas,https://github.com/STEllAR-GROUP/hpx/wiki/HPX-Resource-Guide,https://summerofcode.withgoogle.com/archive/2017/organizations/6145876204453888/
+"Stony Brook University, Biomedical Informatics",Advance biomedical knowledge through innovative data science research,"
+Science and Medicine
+","['big data', 'apache spark', 'matlab', 'c++', 'hadoop']","['biomedical informatics', 'medical imaging', 'bioinformtics', 'big data', 'database']",http://goo.gl/7c3zOI,https://groups.google.com/d/forum/stonybrookbmigsoc,https://summerofcode.withgoogle.com/archive/2017/organizations/6367868836904960/
+strace,linux syscall tracer,"
+Operating Systems
+","['linux', 'c', 'git', 'shell script', 'make']","['linux', 'syscall', 'tracing', 'c', 'git']",https://sourceforge.net/p/strace/wiki/GoogleSummerOfCode2017/,https://strace.io,https://summerofcode.withgoogle.com/archive/2017/organizations/6249254993526784/
+Sugar Labs,"We make tools that learners use to explore, discover, create, and reflect.","
+Programming Languages and Development Tools
+","[' python', 'javascript', 'gtk', 'android']","['learning', 'education']",https://wiki.sugarlabs.org/go/Summer_of_Code/2017,https://webchat.freenode.net/,https://summerofcode.withgoogle.com/archive/2017/organizations/4675168001589248/
+Sustainable Computing Research Group ( SCoRe ),"SCoRe has conducted research covering various aspects of Security, Mobile & IOT.","
+End User Applications
+","['python', 'java', 'gcp', 'android', 'golan']","['iot', 'security', 'mobile applications', 'embedded systems']",http://www.scorelab.org/gsoc-2017/,https://gitter.im/scorelab/scorelab,https://summerofcode.withgoogle.com/archive/2017/organizations/4984473024200704/
+SymPy,SymPy is a Python library for symbolic mathematics.,"
+Science and Medicine
+","['python', 'c++']","['mathematics', ' science', 'computer algebra']",https://github.com/sympy/sympy/wiki/GSoC-2017-Ideas,https://gitter.im/sympy/sympy,https://summerofcode.withgoogle.com/archive/2017/organizations/5228947662962688/
+"Systers, an Anita Borg Institute community",Helping women find their potential in code.,"
+Other
+","['android', 'ios', 'python', 'java', 'javascript ']","['women in tech', 'games', 'peace corps', 'web', 'mobile']",https://github.com/systers/ossprojects/wiki/GSoC-2017,http://systers.io/slack-systers-opensource/,https://summerofcode.withgoogle.com/archive/2017/organizations/5429781541683200/
+TEAMMATES @ National University of Singapore,An online feedback management system for students and teachers,"
+Web
+","['java', ' javascript', 'google app engine', 'css', 'java ee']","['education', 'peer feedback', 'webapps', 'saas']",http://tinyurl.com/teammates-ideas,https://github.com/teammates/teammates#contacting-us,https://summerofcode.withgoogle.com/archive/2017/organizations/5786366906466304/
+The Center for Connected Learning and Computer-Based Modeling,NetLogo: A language and IDE for programming and scientific simulations,"
+Programming Languages and Development Tools
+","['javascript', 'scala', 'html5']","['simulation', 'education', 'programming language', 'science', ' research']",https://github.com/NetLogo/NetLogo/wiki/Google-Summer-of-Code-Ideas-List,https://gitter.im/NetLogo/GSoC2017,https://summerofcode.withgoogle.com/archive/2017/organizations/4578118920568832/
+The CGAL Project,C++ library of computational geometry and geometry processing,"
+Science and Medicine
+","['c++', 'git', 'github']","['computational geometry', 'geometry processing', 'mesh processing', 'triangulaton', 'arrangement']",http://www.cgal.org/project_ideas.html,http://www.cgal.org/mailing_list.html,https://summerofcode.withgoogle.com/archive/2017/organizations/6565611412914176/
+The Eclipse Foundation,"An amazing open source community of tools, projects, and  collaboration.","
+Other
+","['java', 'geo', 'iot', 'che', 'ide']","['locationtech', 'developer tools', 'runtimes', 'frameworks']",https://wiki.eclipse.org/Google_Summer_of_Code_2017_Ideas,https://dev.eclipse.org/mailman/listinfo/soc-dev,https://summerofcode.withgoogle.com/archive/2017/organizations/5043263878725632/
+The FreeType Project,FreeType font rendering library,"
+Graphics / Video / Audio / Virtual Reality
+","['fonts', 'opentype', 'c', 'library']","['fonts', 'opentype', 'rendering', 'graphics', 'truetype']",https://www.freetype.org/gsoc.html,https://lists.nongnu.org/mailman/listinfo/freetype-devel,https://summerofcode.withgoogle.com/archive/2017/organizations/4699374705704960/
+The GNU Project,GNU is an operating system that is free software,"
+Operating Systems
+","['c', 'guile', 'python']",['operating system'],https://www.gnu.org/software/soc-projects/ideas.html,https://lists.gnu.org/mailman/listinfo/summer-of-code,https://summerofcode.withgoogle.com/archive/2017/organizations/5556772852989952/
+The Honeynet Project,The Honeynet Project - R&D for Honeypot/Honeynet Technology and InfoSec Research,"
+Security
+","[' python', 'javascript', 'golang', 'android', 'network stack']","['security', 'honeypots', 'deception', 'research', 'malware']",https://honeynet.org/gsoc/ideas,https://gsoc-slack.honeynet.org/,https://summerofcode.withgoogle.com/archive/2017/organizations/5512685819002880/
+The Java Pathfinder Team,JPF is a highly extensible Java virtual machine built for software analysis,"
+Programming Languages and Development Tools
+","['java', ' jvm', ' android', ' distributed systems']","['program analysis ', ' testing ', ' verification ', ' model checking', ' environment generation']",https://jpf.byu.edu/gsoc17/projects/projects.html,https://webchat.freenode.net,https://summerofcode.withgoogle.com/archive/2017/organizations/4740037845450752/
+The Julia Language,A fresh approach to Technical Computing,"
+Programming Languages and Development Tools
+","['julia', ' javascript', 'gpu', 'c/c++', 'llvm']","['graphics', 'plotting', 'numerical computing', 'high performance computing', 'linear algebra']",http://julialang.org/soc/ideas-page.html,https://discourse.julialang.org/,https://summerofcode.withgoogle.com/archive/2017/organizations/6682672759832576/
+The Libreswan Project,Encrypting the internet using IKE and IPsec,"
+Security
+","['c', 'python', ' shell script']","['vpn', 'ipsec', 'ike']",https://libreswan.org/wiki/GSoC2017,https://libreswan.org/wiki/Main_Page#Developer_documentation,https://summerofcode.withgoogle.com/archive/2017/organizations/6311703818010624/
+The Linux Foundation,A non-profit consortium dedicated to fostering the growth of Linux,"
+Operating Systems
+","['c', 'c++', 'cups', 'mysql', 'gtk']","['kernel', 'printing', 'lsb', 'wireless', 'wireguard']",https://wiki.linuxfoundation.org/gsoc/google-summer-code-2017,https://wiki.linuxfoundation.org/gsoc/google-summer-code-2017#if-you-have-questions,https://summerofcode.withgoogle.com/archive/2017/organizations/5902526847123456/
+The MacPorts Project,Open Source package manager for Mac OS.,"
+End User Applications
+","['tcl', 'make', 'git']","['package manager', 'mac os x', 'macos']",https://trac.macports.org/wiki/SummerOfCode,http://webchat.freenode.net/?channels=%23macports,https://summerofcode.withgoogle.com/archive/2017/organizations/5223416953044992/
+The NetBSD Foundation,Of course it runs NetBSD!,"
+Operating Systems
+","['virtualization', 'filesystems', 'network stack', 'arm', 'mips']","['general purpose os', 'real unix', 'package management', 'free and open source software']",https://wiki.netbsd.org/projects/gsoc/,https://wiki.netbsd.org/netbsd-code-chat,https://summerofcode.withgoogle.com/archive/2017/organizations/5856162406727680/
+The ns-3 Network Simulator Project,ns-3 is a packet-level network simulator for research and education.,"
+Other
+","['c++', 'python']","['networking', 'computer networking', 'simulation', 'research and development']",https://www.nsnam.org/wiki/GSOC2017Projects,https://www.nsnam.org/developers/tools/irc/,https://summerofcode.withgoogle.com/archive/2017/organizations/5226418732531712/
+The Processing Foundation,Our goal is to empower people of all backgrounds to learn how to program.,"
+Programming Languages and Development Tools
+","['java', ' javascript', ' python', ' android', ' opengl']","['creative coding', ' graphics', ' web', ' education', ' design']",https://github.com/processing/processing/wiki/Project-List,https://forum.processing.org/two/categories/summer-of-code-2017,https://summerofcode.withgoogle.com/archive/2017/organizations/5256745899261952/
+The Wine Project,"Wine runs Windows applications on Linux, BSD, Solaris and Mac OS X.","
+Other
+","['c', ' opengl', ' directx', ' x11', ' win32']","['compatibility', ' desktop integration']",http://wiki.winehq.org/SummerOfCode,http://www.winehq.org/irc,https://summerofcode.withgoogle.com/archive/2017/organizations/5417956825628672/
+Tiled,"A free, easy to use and flexible 2D level editor.","
+End User Applications
+","['qt', 'c++', 'git', 'github']","['edit', 'editing', 'level', 'game', 'game development']",https://github.com/bjorn/tiled/wiki/GSoC-2017,https://gitter.im/bjorn/tiled,https://summerofcode.withgoogle.com/archive/2017/organizations/6470814639587328/
+TimVideos,"Software & hardware to recording + streaming conferences, meetings & usergroups.","
+Graphics / Video / Audio / Virtual Reality
+","['python', 'verilog', 'fpga', 'vhdl', 'c']","['hardware', 'embedded', 'video', 'fpga']",https://code.timvideos.us/summer-of-code/,https://webchat.freenode.net/?channels=#timvideos,https://summerofcode.withgoogle.com/archive/2017/organizations/6543856732471296/
+Tor,Internet privacy and anonymity,"
+Security
+","['c', ' python', 'javascript', 'c++']","['privacy', ' anonymity', ' counter-censorship', 'free-speech']",https://www.torproject.org/about/gsoc,https://www.torproject.org/about/contact#irc,https://summerofcode.withgoogle.com/archive/2017/organizations/5273949793419264/
+UCSC Xena,Helping biologists see the bigger picture in diverse cancer genomics data,"
+Science and Medicine
+","['javascript', 'react', 'clojure', 'd3', 'python']","['genomics', 'data visualization', 'cancer', ' bioinformatics', 'web application']",https://github.com/ucscXena/ucsc-xena-client/wiki/Google-Summer-of-Code-Ideas,http://xena.ucsc.edu/#subscribe,https://summerofcode.withgoogle.com/archive/2017/organizations/4944943755821056/
+"Urban Energy Systems Laboratory, Empa",HUES is a platform for modeling & analysis of distributed energy systems,"
+Science and Medicine
+","['python', 'gis', 'fast fluid dynamics']","['distributed energy systems', 'modeling & optimization', 'data portal']",https://hues.empa.ch/index.php/HUES_GSoC_Projects_2017,mailto:andrew.bollinger@empa.ch,https://summerofcode.withgoogle.com/archive/2017/organizations/4513544758362112/
+VideoLAN,"A team of volunteers, believing in the power of open source multimedia.","
+Graphics / Video / Audio / Virtual Reality
+","['c++', 'c', 'opengl', 'qt', 'assembly']","['video', 'audio', 'multimedia']",https://wiki.videolan.org/Google_Summer_of_Code_2017/,https://mailman.videolan.org/listinfo/vlc-devel,https://summerofcode.withgoogle.com/archive/2017/organizations/4898083515138048/
+ViSP,Visual tracking and visual servoing library,"
+Graphics / Video / Audio / Virtual Reality
+","['vision', ' c++']","['robotics', 'vision']",https://github.com/lagadic/visp/wiki/GSoC_2017,https://visp.inria.fr,https://summerofcode.withgoogle.com/archive/2017/organizations/4892929554382848/
+Wikimedia Foundation,Global movement whose mission is to bring free educational content to the world,"
+Web
+","['php ', 'javascript ', ' html ', ' css ', ' jquery']","[' web', ' wiki', 'encyclopedia']",https://www.mediawiki.org/wiki/Google_Summer_of_Code_2017,https://www.mediawiki.org/wiki/Google_Summer_of_Code_2017#Contact,https://summerofcode.withgoogle.com/archive/2017/organizations/6468952502829056/
+WorldBrain - Verifying the Internet with Science,"Full-text search your history, bookmarks and all your apps.","
+Social / Communications
+","['reactjs', ' javascript']","['fake-news', 'misinformation', 'search', 'digital knowledge']",http://www.worldbrain.io/GSoC_ideas_list,http://join-worldbrain.herokuapp.com,https://summerofcode.withgoogle.com/archive/2017/organizations/6393325913374720/
+WSO2,Comprehensive and open source middleware platform that spans the breadth of SOA,"
+Other
+","['soa', 'middleware', 'java', 'distributed computing', 'web services']","['cloud', 'iot', 'security', 'micro services', 'api management']",https://docs.wso2.com/display/GSoC/Project+Proposals+for+2017,https://freenode.net/,https://summerofcode.withgoogle.com/archive/2017/organizations/6070843662663680/
+wxWidgets,Library for creating portable native GUIs in C++,"
+Programming Languages and Development Tools
+","['c++', 'gtk+', 'win32', 'cocoa']","['cross-platform', 'desktop', 'gui']",http://www.wxwidgets.org/gsoc/projects/,http://www.wxwidgets.org/support/irc/,https://summerofcode.withgoogle.com/archive/2017/organizations/5262324659126272/
+X.Org Foundation,"X Window System and related projects (Mesa, DRI, Wayland, etc.)","
+Graphics / Video / Audio / Virtual Reality
+","['opengl', 'vulkan', 'x11', 'wayland', 'opencl']","['graphics stack', 'operating system', 'graphics', '3d', 'video']",https://www.x.org/wiki/SummerOfCodeIdeas/,https://www.x.org/wiki/SummerOfCodeIdeas/,https://summerofcode.withgoogle.com/archive/2017/organizations/6339354280591360/
+Xapian Search Engine Library,"Fast, scalable and flexible search","
+Data and Databases
+","['c++', 'unicode', 'swig', 'linux', 'golang']","['search', 'information retrieval', 'machine learning', 'linguistics', 'indexing']",https://trac.xapian.org/wiki/GSoCProjectIdeas,https://trac.xapian.org/wiki/GSoC_IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/6189339662876672/
+XBMC Foundation,Kodi Media Center,"
+Graphics / Video / Audio / Virtual Reality
+","['python', 'c++11', 'xml', 'git', 'drupal']","['media center', 'video player', 'audio', 'media management']",http://kodi.wiki/view/Google_Summer_of_Code/2017,mailto:contact@kodi.tv,https://summerofcode.withgoogle.com/archive/2017/organizations/5704018827411456/
+Xen Project,Bringing the power of virtualization everywhere,"
+Cloud
+","['linux', 'free/netbsd', 'asm/c/c++', 'qemu', 'ocaml']","['virtualization', 'security', 'cloud computing', 'unikernels', 'embedded/automotive']",https://wiki.xenproject.org/wiki/2017-Summer-Internships,https://xenproject.org/help/irc.html,https://summerofcode.withgoogle.com/archive/2017/organizations/5748328394391552/
+XMPP Standards Foundation,Secure messaging with open standards,"
+Social / Communications
+","['xmpp', 'c++', 'java', 'erlang', 'javascript']","['chat', 'messaging', 'instant messaging', 'social', 'communications']",https://xmpp.org/gsoc2017.html,https://mail.jabber.org/mailman/listinfo/gsoc,https://summerofcode.withgoogle.com/archive/2017/organizations/6062681614188544/
+XWiki,The Advanced Open Source Enterprise Wiki,"
+Web
+","['java', ' javascript', ' html5', ' css3', ' velocity']","['web development', ' web platform and services', ' wiki']",http://gsoc.xwiki.org/,http://dev.xwiki.org/xwiki/bin/view/Community/IRC,https://summerofcode.withgoogle.com/archive/2017/organizations/6636322546515968/
+Zenodo,A free and open digital archive for the long-tail of science.,"
+Science and Medicine
+","['python', 'postgresql', 'flask', 'angularjs', 'elasticsearch']","['content management', 'web', 'open science', 'digital library', 'machine learning']",https://github.com/zenodo/zenodo/wiki/Google-Summer-of-Code-2017#ideas-list,https://gitter.im/zenodo/zenodo,https://summerofcode.withgoogle.com/archive/2017/organizations/4744852235354112/
+Zulip,"Powerful, modern, open source group chat, complete with apps for every platform.","
+Social / Communications
+","['python', 'django', 'javascript', 'react native', 'electron']","['enterprise', 'web development', 'group chat', 'cross-platform', 'mobile applications']",https://github.com/zulip/zulip.github.io/blob/master/gsoc-ideas.md,https://chat.zulip.org/,https://summerofcode.withgoogle.com/archive/2017/organizations/4533090483437568/
