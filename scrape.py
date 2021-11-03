@@ -22,6 +22,9 @@ questions = [
         'choices': [
             Separator(),
             {
+                'name': '2021'
+            },
+            {
                 'name': '2020'
             },
             {
